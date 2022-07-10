@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  Test
+  {{ Test }}
   <router-view />
 </template>
 <style lang="scss">
